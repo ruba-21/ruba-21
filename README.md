@@ -1,53 +1,76 @@
 ## 👋 Hi, I’m Ruba
 
-CS graduate who enjoys building full-stack mobile and web apps and making things actually work.
+CS graduate who enjoys building full-stack mobile and web apps and making things actually work.  
 I work with APIs, Android, Swift basics, AI-based projects, data dashboards, and UI design — and I’m always learning something new 🚀
 
 ---
 
 ## 💻 Languages & Tech
 
-### 🖥️ Programming
-Python · Java · C++ · SQL · Swift · HTML · CSS · PHP · JavaScript
+### 🖥️ Programming  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)  
+![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-### 📱 Mobile & Web
-Android (Full-Stack) · REST APIs · Web Applications · Swift (iOS basics)
+### 📱 Mobile & Web  
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)  
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?logo=rest-api&logoColor=white)  
+![Web](https://img.shields.io/badge/Web-000000?logo=web&logoColor=white)  
+![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
 
-### 🤖 AI & Data
-Machine Learning (Academic) · Image-based AI Systems · Power BI · Data Analysis
+### 🤖 AI & Data  
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?logo=tensorflow&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=microsoft-power-bi&logoColor=black)  
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-4CAF50?logo=tableau&logoColor=white)
 
-### 🗄️ Databases
-MySQL · SQLite · Database Design
+### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
-### 🎨 UI / UX & Design
-Figma · Canva · Axure RP · Balsamiq
+### 🎨 UI / UX & Design  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)  
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)  
+![Axure RP](https://img.shields.io/badge/AxureRP-F76B1C?logo=axure&logoColor=white)  
+![Balsamiq](https://img.shields.io/badge/Balsamiq-1E1E1E?logo=balsamiq&logoColor=white)
 
-### 🛠️ Tools & Platforms
-Git · GitHub · Android Studio · Xcode · IIS · Linux · Advanced Excel
+### 🛠️ Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white)  
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=xcode&logoColor=white)  
+![IIS](https://img.shields.io/badge/IIS-68217A?logo=microsoft-iis&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
 
-### 🧠 AutismLens
+### 🧠 AutismLens  
 AI-based system for Autism Spectrum Disorder (ASD) detection using facial images.  
 **Tech:** Python · Machine Learning · Image Processing
 
-### 📱 Full-Stack Android Applications
+### 📱 Full-Stack Android Applications  
 - Asset Management Application  
 - Plant Operations Application  
 **Tech:** Android · REST APIs · Databases
 
-### 🌐 Web-Based Project
+### 🌐 Web-Based Project  
 Plant selling website with database-driven inventory and product management.  
 **Tech:** HTML · CSS · PHP · JavaScript · SQL
 
-### 🎨 UI / HCI Project
+### 🎨 UI / HCI Project  
 Health and fitness mobile app prototype designed with a user-centered approach.  
 **Tools:** Axure RP · Balsamiq · Canva
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let’s Connect  
 📧 **Email:** Ruba.alshehri@hotmail.com  
-🔗 **LinkedIn:** coming soon 😉
+🔗 **LinkedIn:** [linkedin.com/in/ruba-alshehri-069a32281](https://www.linkedin.com/in/ruba-alshehri-069a32281/)

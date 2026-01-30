@@ -8,8 +8,8 @@ I work with APIs, Android, Swift basics, AI-based projects, data dashboards, and
 ## 💻 Languages & Tech
 
 ### 🖥️ Programming  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)  
+
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)  
 ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge)  
